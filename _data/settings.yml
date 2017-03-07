@@ -64,7 +64,12 @@ projects:
 # Clients Section
 
 clients:
-- {logo: 'logo1.png'}- {logo: 'logo2.png'}- {logo: 'logo3.png'}- {logo: 'logo4.png'}- {logo: 'logo5.png'}- {logo: 'logo6.png'}
+- {logo: 'logo1.png'}
+- {logo: 'logo2.png'}
+- {logo: 'logo3.png'}
+- {logo: 'logo4.png'}
+- {logo: 'logo5.png'}
+- {logo: 'logo6.png'}
 - {logo: 'logo7.png'}
 - {logo: 'logo8.png'}
 - {logo: 'logo9.png'}
