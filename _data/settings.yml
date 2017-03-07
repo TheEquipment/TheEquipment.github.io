@@ -67,11 +67,7 @@ projects:
 # Clients Section
 
 clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  logo: 'logo1.png'}
+- {logo: 'logo1.png'}
 - {avatar: 'face-atariboy.jpg',
   name: 'Hank McCoy',
   title: 'Eater of Salad, Antartica Int.',
