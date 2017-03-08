@@ -1,5 +1,8 @@
 ---
-title: Fresh It Up
+title: Robotics
 ---
 
-![Fresh It Up]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Robotics]({{ site.github.url }}/assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+
+* Intelligent Robots
+* RFID
