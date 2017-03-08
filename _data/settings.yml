@@ -59,10 +59,10 @@ projects:
 - {name: Sensors, folder: 'proj-6', file: 'work/proj-6.html'}
 - {name: Educational MRI Module, folder: 'proj-7', file: 'work/proj-7.html'}
 - {name: Elecrical & Electronic Trainers, folder: 'proj-8', file: 'work/proj-8.html'}
-- {name: Prototyping, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: PCB Design & Development, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: IOT, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Training & Workshops, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Prototyping, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: PCB Design & Development, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: IOT, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Training & Workshops, folder: 'proj-1', file: 'work/proj-1.html'}
 
 #-------------------------------
 # Clients Section
