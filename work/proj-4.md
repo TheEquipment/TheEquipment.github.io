@@ -1,5 +1,9 @@
 ---
-title: Flat Mobile UI/UX Concept
+title: Information Technology
 ---
 
-![Flat Mobile UI/UX Concept]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![Information Technology]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+
+* IT Convergence
+* Green IT
+* Communication Systems
