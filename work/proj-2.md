@@ -1,5 +1,9 @@
 ---
-title: City In Website Concept
+title: Biomedical Engineering Equipments
 ---
 
-![City In]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+![Biomedical Engineering Equipments]({{ site.github.url }}/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg)
+
+* Biomechanics
+* Biomaterials
+* Biomedical Instrumentation
