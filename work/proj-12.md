@@ -2,4 +2,4 @@
 title: Training & Workshops
 ---
 
-![Training & Workshops]({{ site.github.url }}/assets/img/work/proj-12/stripes-co-NickZoutendijk.jpg)
+![Training & Workshops]({{ site.github.url }}/assets/img/work/proj-12/img1.jpg)
