@@ -8,3 +8,9 @@ title: Test & Measurement Equipments
 * Data Loggers
 * Universal Testing Machine
 * Compression Testing Machine
+* Tool kits 
+* Multimeter 
+* Power Supplies 
+* Oscilloscope 
+* Function Generators
+* Rework Stations
